@@ -1,4 +1,4 @@
-Libgram - cloesd soursed telegram shared object c++ lib injector for android
+Libgram - closed sours telegram shared object c++ lib injector for android
 Youre not allowed to modify it without my permission
 FAQ:
 q:How to install it?
